@@ -1,0 +1,33 @@
+## Screenshots
+
+### Live Pages
+![Houston Residential Page](screenshots/01-houston-page-live.png)
+*Live Houston residential page showing strong local modifiers, clear CTAs, and trust signals.*
+
+![Commercial TPO Page](screenshots/02-commercial-tpo-page-live.png)
+*Commercial TPO roofing page showing strong service intent, commercial relevance, and conversion-focused layout.*
+
+### Crawl Findings
+![Response Codes Overview](screenshots/03-response-codes-overview.png)
+*Response code summary showing redirects and one 4xx issue within the crawl.*
+
+![404 and Redirect URLs](screenshots/04-404-and-redirect-urls.png)
+*Detailed crawl view showing the broken `/houston-tpo-roofer` URL and multiple redirected legacy URLs.*
+
+![Houston URL Redirect vs 200](screenshots/05-houston-url-filtered-redirect-vs-200.png)
+*Filtered URL view showing `/tpo-roof/houston/` returning 301 while `/houston/` returns 200.*
+
+![Page Titles Audit](screenshots/06-page-titles-audit.png)
+*Page title review showing overlength and under-optimised title opportunities.*
+
+![Meta Descriptions Audit](screenshots/07-meta-descriptions-audit.png)
+*Meta description review showing widespread overlength snippet issues.*
+
+![H1 Audit](screenshots/08-h1-audit.png)
+*Heading review showing missing H1s and non-sequential heading structure.*
+
+![Canonicals Audit](screenshots/09-canonicals-audit.png)
+*Canonical review showing one canonicalised non-indexable page that should be validated.*
+
+![Links Audit](screenshots/11-links-audit.png)
+*Internal links review showing shallow crawl depth but weak descriptive anchor support.*
