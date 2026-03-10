@@ -102,4 +102,4 @@ Fixes were sequenced using a Priority Score combining SEO impact, business impac
 
 ---
 
-*Portfolio project by Tyree Hayes | Local SEO Specialist | 2026*
+*Portfolio project by Tyree Anderson | Local SEO Specialist | 2026*
